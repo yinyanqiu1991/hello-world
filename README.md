@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-printf("hello world!")
+this is a description file for my first program
